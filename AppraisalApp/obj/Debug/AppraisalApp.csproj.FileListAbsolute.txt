@@ -1,40 +1,20 @@
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\bin\roslyn\csc.exe
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\bin\roslyn\Microsoft.CodeAnalysis.dll
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\bin\roslyn\Microsoft.CSharp.Core.targets
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\bin\roslyn\System.Collections.Immutable.dll
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\bin\roslyn\System.Reflection.Metadata.dll
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\bin\roslyn\vbc.exe
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\bin\roslyn\VBCSCompiler.exe
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\bin\roslyn\VBCSCompiler.exe.config
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\bin\AppraisalApp.dll.config
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\bin\AppraisalApp.dll
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\bin\AppraisalApp.pdb
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\obj\Debug\AppraisalApp.dll
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\obj\Debug\AppraisalApp.pdb
-c:\users\kris\documents\visual studio 2015\Projects\AppraisalApp\AppraisalApp\obj\Debug\AppraisalApp.csprojResolveAssemblyReference.cache
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\bin\roslyn\csc.exe
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\bin\roslyn\vbc.exe
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\bin\roslyn\VBCSCompiler.exe
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\bin\AppraisalApp.dll.config
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\bin\AppraisalApp.dll
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\bin\AppraisalApp.pdb
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\obj\Debug\AppraisalApp.csprojResolveAssemblyReference.cache
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\obj\Debug\AppraisalApp.dll
-C:\Users\PCUser_2\Desktop\AppraisalApp\AppraisalApp\AppraisalApp\obj\Debug\AppraisalApp.pdb
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\bin\roslyn\csc.exe
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\bin\roslyn\vbc.exe
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\bin\AppraisalApp.dll.config
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\bin\AppraisalApp.dll
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\bin\AppraisalApp.pdb
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\obj\Debug\AppraisalApp.csprojResolveAssemblyReference.cache
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\obj\Debug\AppraisalApp.dll
+C:\Users\PCUser_2\Documents\GitHub\SimpleAngularCarApp\AppraisalApp\obj\Debug\AppraisalApp.pdb
