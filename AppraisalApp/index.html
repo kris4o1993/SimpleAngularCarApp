@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Appraisal Application</title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/ui-bootstrap-csp.css" rel="stylesheet" />
+    <link rel="stylesheet" href="content/font-awesome.min.css"/>
+    <link rel="stylesheet" href="styles/styles.css">
+    <script src="app/constants.js"></script>
+    <script src="app/data.js"></script>
+</head>
+<body ng-app="ka">
+    <div class="container">
+        <div class="jumbotron">
+            <h1>Appraisal App</h1>
+            <p>This is a simple appraisal app created by Kristiyan Petrov. Enjoy!</p>
+        </div>
+        <div class="row">
+            <div ng-view>
+            </div>
+        </div>
+    </div>
+    <script src="scripts/moment.js"></script>
+    <script src="scripts/angular.js"></script>
+    <script src="scripts/angular-route.js"></script>
+    <script src="scripts/angular-moment.min.js"></script>
+    <script src="app/app.routes.js"></script>
+    <script src="app/app.module.js"></script>
+    <script src="app/services/car.service.js"></script>
+    <script src="app/services/car.load-data.service.js"></script>
+    <script src="app/modules/listings/car-listing.controller.js"></script>
+</body>
+</html>

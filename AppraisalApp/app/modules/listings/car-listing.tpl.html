@@ -1,0 +1,48 @@
+﻿<div class="jumbotron">
+    <form class="form-horizontal">
+        <div class="form-group">
+            <div class="row">
+                <div class="col-sm-12">
+                    <input type="text" class="form-control" id="name" ng-model="vm.searchText.vehicle" placeholder="Search...">
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="input-group">
+                <select class="form-control" id="selectFilter" name="sortBy" ng-model="vm.sortBy">
+                    <option value="timeCreatedAgo" selected="selected">Aging</option>
+                    <option value="mileage">Mileage</option>
+                </select>
+                <span class="input-group-btn">
+                    <button class="btn btn-default" ng-if="!vm.descending" type="button" ng-click="vm.toggleSorting()"><i class="fa fa-arrow-up"></i></button>
+                    <button class="btn btn-default" ng-if="vm.descending" type="button" ng-click="vm.toggleSorting()"><i class="fa fa-arrow-down"></i></button>
+                </span>
+            </div>
+        </div>
+    </form>
+    <div class="list-group">
+        <div ng-repeat="car in vm.cars | filter:vm.searchText | orderBy:vm.sortBy:vm.descending" class="list-group-item row">
+            <div class="col-sm-4">
+                <button class="{{car.statusClass}} car-status">{{car.status}}</button>
+                <img src="{{car.picture_url}}" ng-click="vm.openBiggerPicture(car.picture_url)" class="car-img"/>
+            </div>
+            <div class="col-sm-8">
+                <h2 class="row">{{car.vehicle}}</h2>
+                <div class="row">
+                    <span><i class="fa fa-barcode"></i> {{car.vin}}</span>
+                    <span><i class="fa fa-tachometer"></i> {{car.mileage}} miles</span>
+                </div>
+                <div class="row" ng-if="car.locality">
+                    <span><i class="fa fa-location-arrow"></i> {{car.locality}}</span>
+                </div>
+                <div class="row">
+                    <span><i class="fa fa-clock-o"></i> {{car.timeCreatedAgo}} days ago</span>
+                </div>
+                <div class="row">
+                    <button ng-if="!car.liked" class="btn btn-default" ng-model="car.liked" ng-click="vm.toggleCarLike(car)">Like</button>
+                    <button ng-if="car.liked" class="btn btn-success" ng-model="car.liked" ng-click="vm.toggleCarLike(car)"><i class="fa fa-check"></i>Liked!</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

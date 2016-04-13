@@ -1,0 +1,13 @@
+﻿.car-img {
+    width: 100%;
+}
+
+#selectFilter {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.car-status {
+    position: relative;
+    top: 35px;
+}
